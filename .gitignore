@@ -1,0 +1,67 @@
+# =========================
+# Spring Boot / Maven
+# =========================
+
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# =========================
+# IDE
+# =========================
+
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+.nb-gradle/
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+# =========================
+# React / Node
+# =========================
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# =========================
+# Environment files
+# =========================
+
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
