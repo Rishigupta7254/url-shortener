@@ -95,13 +95,7 @@
 			<artifactId>spring-boot-starter-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.example</groupId>
-			<artifactId>
-				Proj7_SpringDataJPA-DateAndTimeValue
-			</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
     </dependencies>
 
     <build>
